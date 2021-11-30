@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Carreras</string>
+    <string name="tituloprincipal">Carreras de Coches</string>
+    <string name="botonprincipal">Entrar</string>
+    <string name="botoncoches">Coches</string>
+    <string name="botonjugar">Jugar</string>
+    <string name="titulo_jugar_coche">Elige y disfruta!</string>
+
+
 </resources>
