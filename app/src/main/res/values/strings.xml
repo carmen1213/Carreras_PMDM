@@ -5,6 +5,8 @@
     <string name="botoncoches">Coches</string>
     <string name="botonjugar">Jugar</string>
     <string name="titulo_jugar_coche">Elige y disfruta!</string>
+    <string name="seleccionar">Seleccionar para carrera</string>
+    <string name="informacion">Información del coche</string>
 
 
 </resources>
