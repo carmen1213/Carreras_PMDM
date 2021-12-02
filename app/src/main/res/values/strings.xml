@@ -8,21 +8,16 @@
     <string name="seleccionar">Seleccionar para carrera</string>
     <string name="informacion">Información del coche</string>
     <string name="titulocoches">Escoge y gana!</string>
-    <string name="titulodialogo">Ferrari F8 Spider</string>
-    <string name="titulodialogo1">Lamborghini Huracan</string>
-    <string name="titulodialogo2">Porsche 911</string>
-    <string name="titulodialogo3">Mustang GT</string>
-    <string name="titulodialogo4">Cupra Leon</string>
-    <string name="botoncerrar">Cerrar</string>
-    <string name="Mensajeferrari"><b>Tamaño</b>:4.611 mm de largo, 1.979 mm de ancho, 1.206 mm de alto y 1.677 mm de batalla. Peso en seco: 1400 kg. \n<b>Consumo</b>: 17,8 lt/100km \n<b>Color</b>: Amarillo \n<b>Potencia</b>: 720 CV \n<b>Velocidad maxima</b>: 340 km/h </string>
-    <string name="Mensajelamborgini"><b>Tamaño</b>:Largo 4.459 mm,Alto	1.165 mm,Ancho	1.924 mm, Batalla 2.620 mm, Peso en seco: 1.422 kg\n<b>Consumo</b>: 14,3 l/100 km \n<b>Color</b>: Verde \n<b>Potencia</b>: 580 a 640 CV \n<b>Velocidad maxima</b>: 325 km/h </string>
-    <string name="Mensajemustang"><b>Tamaño</b>: Largo 4.519 mm,Alto 1.297 mm,Ancho	1.852 mm,Batalla 2.450 mm, Peso en seco: 1.700 kg\n<b>Consumo</b>: 2510 L \n<b>Color</b>: Rojo \n<b>Potencia</b>: 450 a 459 CV \n<b>Velocidad maxima</b>: 249 a 262 km/h  </string>
-    <string name="Mensajeporche"><b>Tamaño</b>:Largo 4.519 mm,Alto	1.297 mm,Ancho	1.852 mm,Batalla 2.450 mm,Peso 1.700 kg \n<b>Consumo</b>: 11-12 l/100 km \n<b>Color</b>: Gris \n<b>Potencia</b>: 385 a 650 CV \n<b>Velocidad maxima</b>: 289 a 330 km/h </string>
-    <string name="Mensajecupra"><b>Tamaño</b>:Largo	4.398 mm,Alto 1.467 mm, Ancho 1.799 mm,Batalla	2.682 mm, Peso 1.671 kg\n<b>Consumo</b>: 1,1-8,3 l/100 km \n<b>Color</b>: Negro \n<b>Potencia</b>: 2510 L \n<b>Velocidad maxima</b>: 325 km/h </string>
-
-
-
-
-
+    <string name="titulodialogo"><font color='#FF0000' size='30' ><i><b>Ferrari F8 Spider</b></i></font></string>
+    <string name="titulodialogo1"><font color='#FF0000' size='30' ><i><b>Lamborghini Huracan</b></i></font></string>
+    <string name="titulodialogo2"><font color='#FF0000' size='30' ><i><b>Porsche 911</b></i></font></string>
+    <string name="titulodialogo3"><font color='#FF0000' size='30' ><i><b>Mustang GT</b></i></font></string>
+    <string name="titulodialogo4"><font color='#FF0000' size='30' ><i><b>Cupra Leon</b></i></font></string>
+    <string name="botoncerrar"><font color='#E4A010' size='25' ><i><b>Cerrar</b></i></font></string>
+    <string name="Mensajeferrari"><font color='000000' size='18' ><b>Tamaño</b></font> :4.611 mm de largo, 1.979 mm de ancho, 1.206 mm de alto y 1.677 mm de batalla. Peso en seco: 1400 kg. \n<font color='000000' size='18' ><b>Consumo</b></font> : 17,8 lt/100km \n<font color='000000' size='18' ><b>Color</b></font> : Amarillo \n<font color='000000' size='18' ><b>Potencia</b></font> : 720 CV \n<font color='000000' size='18' ><b>Velocidad maxima</b></font> : 340 km/h </string>
+    <string name="Mensajelamborgini"><font color='000000' size='18' ><b>Tamaño</b></font> :Largo 4.459 mm,Alto	1.165 mm,Ancho	1.924 mm, Batalla 2.620 mm, Peso en seco: 1.422 kg\n<font color='000000' size='18' ><b>Consumo</b></font> : 14,3 l/100 km \n<font color='000000' size='18' ><b>Color</b></font> : Verde \n<font color='000000' size='18' ><b>Potencia</b></font> : 580 a 640 CV \n<font color='000000' size='18' ><b>Velocidad maxima</b></font> : 325 km/h </string>
+    <string name="Mensajemustang"><font color='000000' size='18' ><b>Tamaño</b></font> : Largo 4.519 mm,Alto 1.297 mm,Ancho	1.852 mm,Batalla 2.450 mm, Peso en seco: 1.700 kg\n<font color='000000' size='18' ><b>Consumo</b></font> : 2510 L \n<font color='000000' size='18' ><b>Color</b></font> : Rojo \n<font color='000000' size='18' ><b>Potencia</b></font> : 450 a 459 CV \n<font color='000000' size='18' ><b>Velocidad maxima</b></font> : 249 a 262 km/h  </string>
+    <string name="Mensajeporche"><font color='000000' size='18' ><b>Tamaño</b></font> :Largo 4.519 mm,Alto	1.297 mm,Ancho	1.852 mm,Batalla 2.450 mm,Peso 1.700 kg \n<font color='000000' size='18' ><b>Consumo</b></font> : 11-12 l/100 km \n <font color='000000' size='18' ><b>Color</b></font> : Gris \n<font color='000000' size='18' ><b>Potencia</b></font> : 385 a 650 CV \n<font color='000000' size='18' ><b>Velocidad maxima</b></font> : 289 a 330 km/h </string>
+    <string name="Mensajecupra"><font color='#BDECB6' size='18' ><b>Tamaño</b></font> :Largo 4.398 mm,Alto 1.467 mm, Ancho 1.799 mm,Batalla	2.682 mm, Peso 1.671 kg\n<font color='#BDECB6' size='18' ><b>Consumo</b></font> : 1,1-8,3 l/100 km \n <font color='#BDECB6' size='18' ><b>Color</b></font> : Negro \n<font color='#BDECB6' size='18' ><b>Potencia</b></font> : 2510 L \n<font color='#BDECB6' size='18' ><b>Velocidad maxima</b></font> : 325 km/h </string>
 
 </resources>

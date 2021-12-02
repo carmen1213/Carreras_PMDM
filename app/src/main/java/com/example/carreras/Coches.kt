@@ -141,7 +141,7 @@ class Coches : AppCompatActivity() {
     private fun manageItemClick(menuItem: MenuItem): Boolean {
         return when(menuItem.itemId){
             R.id.add_favorites -> {
-                val dialog = AlertDialog.Builder(this)
+                val dialog = AlertDialog.Builder(this,R.style.CustomDialogThemeferrari)
                     .setTitle(R.string.titulodialogo)
                     .setMessage(R.string.Mensajeferrari)
                     .setNegativeButton(R.string.botoncerrar) { view, _ ->
@@ -182,7 +182,7 @@ class Coches : AppCompatActivity() {
     private fun manageItemClick1(menuItem: MenuItem): Boolean {
         return when(menuItem.itemId){
             R.id.add_favorites -> {
-                val dialog = AlertDialog.Builder(this)
+                val dialog = AlertDialog.Builder(this,R.style.CustomDialogThemelam)
                     .setTitle(R.string.titulodialogo1)
                     .setMessage(R.string.Mensajelamborgini)
                     .setNegativeButton(R.string.botoncerrar) { view, _ ->
@@ -221,7 +221,7 @@ class Coches : AppCompatActivity() {
     private fun manageItemClick2(menuItem: MenuItem): Boolean {
         return when(menuItem.itemId){
             R.id.add_favorites -> {
-                val dialog = AlertDialog.Builder(this)
+                val dialog = AlertDialog.Builder(this, R.style.CustomDialogThemeporche)
                     .setTitle(R.string.titulodialogo2)
                     .setMessage(R.string.Mensajemustang)
                     .setNegativeButton(R.string.botoncerrar) { view, _ ->
@@ -259,7 +259,7 @@ class Coches : AppCompatActivity() {
     private fun manageItemClick3(menuItem: MenuItem): Boolean {
         return when(menuItem.itemId){
             R.id.add_favorites -> {
-                val dialog = AlertDialog.Builder(this)
+                val dialog = AlertDialog.Builder(this, R.style.CustomDialogThememustang)
                     .setTitle(R.string.titulodialogo3)
                     .setMessage(R.string.Mensajeporche)
                     .setNegativeButton(R.string.botoncerrar) { view, _ ->
@@ -296,7 +296,7 @@ class Coches : AppCompatActivity() {
     private fun manageItemClick4(menuItem: MenuItem): Boolean {
         return when(menuItem.itemId){
             R.id.add_favorites -> {
-                val dialog = AlertDialog.Builder(this)
+                val dialog = AlertDialog.Builder(this,R.style.CustomDialogThemecupra)
                     .setTitle(R.string.titulodialogo4)
                     .setMessage(R.string.Mensajecupra)
                     .setNegativeButton(R.string.botoncerrar) { view, _ ->

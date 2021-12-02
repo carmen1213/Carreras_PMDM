@@ -15,5 +15,62 @@
 
     </style>
 
+    <style name="CustomDialogThemeferrari" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!--buttons color-->
+        <item name="colorAccent">@android:color/holo_orange_dark</item>
+        <!--title and message color-->
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="fontFamily">@font/walter_turncoat</item>
+        <item name="android:textSize">40px</item>
+
+        <!--dialog background-->
+        <item name="android:windowBackground">#B7ECFF36</item>
+    </style>
+    <style name="CustomDialogThemelam" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!--buttons color-->
+        <item name="colorAccent">@android:color/holo_orange_dark</item>
+        <!--title and message color-->
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="fontFamily">@font/walter_turncoat</item>
+        <item name="android:textSize">40px</item>
+
+        <!--dialog background-->
+        <item name="android:windowBackground">#A16FF152</item>
+    </style>
+
+    <style name="CustomDialogThemeporche" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!--buttons color-->
+        <item name="colorAccent">@android:color/holo_orange_dark</item>
+        <!--title and message color-->
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="fontFamily">@font/walter_turncoat</item>
+        <item name="android:textSize">40px</item>
+
+        <!--dialog background-->
+        <item name="android:windowBackground">#9CDF4444</item>
+    </style>
+    <style name="CustomDialogThememustang" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!--buttons color-->
+        <item name="colorAccent">@android:color/holo_orange_dark</item>
+        <!--title and message color-->
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="fontFamily">@font/walter_turncoat</item>
+        <item name="android:textSize">40px</item>
+
+        <!--dialog background-->
+        <item name="android:windowBackground">#90B1B3B1</item>
+    </style>
+    <style name="CustomDialogThemecupra" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!--buttons color-->
+        <item name="colorAccent">@android:color/holo_orange_dark</item>
+        <!--title and message color-->
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="fontFamily">@font/walter_turncoat</item>
+        <item name="android:textSize">40px</item>
+
+        <!--dialog background-->
+        <item name="android:windowBackground">#86000000</item>
+    </style>
+
 </resources>
 
