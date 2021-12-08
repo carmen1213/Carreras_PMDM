@@ -15,6 +15,7 @@ import org.imaginativeworld.whynotimagecarousel.ImageCarousel
 import org.imaginativeworld.whynotimagecarousel.model.CarouselItem
 
 class Coches : AppCompatActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?){
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_coches)
@@ -50,14 +51,14 @@ class Coches : AppCompatActivity() {
 
         list.add(
             CarouselItem(
-                imageUrl = "https://i.blogs.es/452c0c/ferrari-458-challenge/450_1000.jpg",
+                imageUrl = "https://www.diariomotor.com/imagenes/2019/09/ferrari-f8-spider-ferrari-f8-tributo_03.jpg",
 
             )
         )
 
         list.add(
             CarouselItem(
-                imageUrl = "https://www.elcarrocolombiano.com/wp-content/uploads/2019/12/20191209-MCLAREN-620R-AA01.jpg",
+                imageUrl = "https://www.ventos.site/wp-content/uploads/2021/08/2020-ferrari-f8-spyder-112-1593551723.jpg",
 
             )
         )
@@ -66,14 +67,13 @@ class Coches : AppCompatActivity() {
         val carousel1: ImageCarousel = findViewById(R.id.carousel1)
         list1.add(
             CarouselItem(
-                imageUrl = "https://www.autolimite.com/wp-content/uploads/2013/04/Porsche-911-GT3-Cup-2013_05.jpg",
-
+                imageUrl = "https://www.autonocion.com/wp-content/uploads/2020/11/Lamborghini-Hurac%C3%A1n-EVO-Fluo-Capsule-16.jpg",
             )
         )
 
         list1.add(
             CarouselItem(
-                imageUrl = "https://cdn.topgear.es/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2017/12/coches-mas-rapidos-historia-mclaren-f1-1993.jpg?itok=s8i763Y8",
+                imageUrl = "https://www.wallpapertip.com/wmimgs/57-572962_lamborghini-huracan-verde-mantis.jpg",
 
             )
         )
@@ -83,13 +83,13 @@ class Coches : AppCompatActivity() {
         val carousel2: ImageCarousel = findViewById(R.id.carousel2)
         list2.add(
             CarouselItem(
-                imageUrl = "https://www.autolimite.com/wp-content/uploads/2013/04/Porsche-911-GT3-Cup-2013_05.jpg",
+                imageUrl = "https://www.coches.com/fotos_historicas/porsche/911-Carrera-S-Coupe-991-2015/high_porsche_911-carrera-s-coupe-991-2015_r5.jpg",
                 )
         )
 
         list2.add(
             CarouselItem(
-                imageUrl = "https://cdn.topgear.es/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2017/12/coches-mas-rapidos-historia-mclaren-f1-1993.jpg?itok=s8i763Y8",
+                imageUrl = "https://i.blogs.es/a5cf93/porsche-911-turbo-2014-prueba-motorpasion-9-1000/450_1000.jpg",
                 )
         )
 
@@ -98,13 +98,13 @@ class Coches : AppCompatActivity() {
         val carousel3: ImageCarousel = findViewById(R.id.carousel3)
         list3.add(
             CarouselItem(
-                imageUrl = "https://www.autolimite.com/wp-content/uploads/2013/04/Porsche-911-GT3-Cup-2013_05.jpg",
+                imageUrl = "ford-mustang-gt-f-35-lightning-ii-edition-looks-ballistic-photo-gallery_2.jpg",
             )
         )
 
         list3.add(
             CarouselItem(
-                imageUrl = "https://cdn.topgear.es/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2017/12/coches-mas-rapidos-historia-mclaren-f1-1993.jpg?itok=s8i763Y8",
+                imageUrl = "https://www.tuningblog.eu/wp-content/uploads/2018/09/cardiologie-Tuning-Ford-Mustang-GT-5.0-V8-3.jpg",
             )
         )
         val list4 = mutableListOf<CarouselItem>()
@@ -112,13 +112,13 @@ class Coches : AppCompatActivity() {
         val carousel4: ImageCarousel = findViewById(R.id.carousel5)
         list4.add(
             CarouselItem(
-                imageUrl = "https://www.autolimite.com/wp-content/uploads/2013/04/Porsche-911-GT3-Cup-2013_05.jpg",
+                imageUrl = "https://www.tuningblog.eu/wp-content/uploads/2018/09/cardiologie-Tuning-Ford-Mustang-GT-5.0-V8-3.jpg",
             )
         )
 
         list4.add(
             CarouselItem(
-                imageUrl = "https://cdn.topgear.es/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2017/12/coches-mas-rapidos-historia-mclaren-f1-1993.jpg?itok=s8i763Y8",
+                imageUrl = "https://i.blogs.es/7303e6/seat-leon-st-cupra-black-carbon-08/1366_2000.jpg",
             )
         )
 
